@@ -1,0 +1,13 @@
+:: Server ::
+
+>> npm i express
+>> npm i mongoose
+>> npm i cors
+>> npm i dotenv
+>> npm i cookie-parser
+>> npm i nodemon
+>> npm i jsonwebtoken
+>> npm i compression
+>> npm i multer 
+>> npm i csv-parser 
+>> npm i xlsx

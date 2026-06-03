@@ -1,0 +1,14 @@
+:: Client ::
+
+>> npm i @reduxjs/toolkit 
+>> npm i react-redux 
+>> npm i redux-thunk                      
+>> npm i react-router-dom                           
+>> npm i react-router                                   
+>> npm i axios                                          
+>> npm i lucide-react                                   
+>> npm i tailwind @tailwindcss/vite                                 
+>> npm i react-icons                                                
+>> npm i cors                                           
+>> npm i sonner                                         
+>> npm i framer-motion
